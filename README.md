@@ -2,10 +2,8 @@
 
 - https://github.com/michelmetran/replit_dash
 
-
-
 <br>
 
 Aqui deu certo!
 
-- https://replit.com/@SMcoder/Dash-Bar-Chart-Dropdown?v=1#pyproject.toml
+- https://replit.com/@SMcoder/Dash-Bar-Chart-Dropdown
